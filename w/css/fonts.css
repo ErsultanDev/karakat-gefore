@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family: HelveticaNeue;
+    font-weight: 400;
+    src: url('../fonts/HelveticaNeueCyr/Medium/helveticaneuecyr-medium.eot?'),
+    url('../fonts/HelveticaNeueCyr/Medium/helveticaneuecyr-medium.otf'),
+    url('../fonts/HelveticaNeueCyr/Medium/helveticaneuecyr-medium.ttf'),
+    url('../fonts/HelveticaNeueCyr/MediumBold/helveticaneuecyr-medium.woff'),
+    url('../fonts/HelveticaNeueCyr/Medium/helveticaneuecyr-medium.woff2');
+}
+
+@font-face {
+    font-family: HelveticaNeue;
+    font-weight: 300;
+    src: url('../fonts/HelveticaNeueCyr/Roman/helveticaneuecyr-roman.otf')
+}
+
